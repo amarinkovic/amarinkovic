@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+
+I am a Software Engineer primarilly focused on Java/JVM stack, recently I strated diving into blockchain development. Other than that, in my spare time I like learning about FP in Scala and fiddling with home automation and microcontrollers.
+
+#### Contact
+
+* Github: [amarinkovic](https://github.com/amarinkovic/amarinkovic)
+* Linkedin: [amarinkovic](https://www.linkedin.com/in/amarinkovic)
+* Twitter: [@amarinkovic](https://twitter.com/amarinkovic)
+
 
 <!--
 **amarinkovic/amarinkovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
