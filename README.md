@@ -4,7 +4,7 @@ I am a Software Engineer primarilly focused on Java/JVM stack, recently I strate
 
 #### Contact
 
-* Github: [amarinkovic](https://github.com/amarinkovic/amarinkovic)
+* GitHub: [amarinkovic](https://github.com/amarinkovic/amarinkovic)
 * LinkedIn: [amarinkovic](https://www.linkedin.com/in/amarinkovic)
 * Twitter: [@amarinkovic](https://twitter.com/amarinkovic)
 
