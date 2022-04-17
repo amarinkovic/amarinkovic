@@ -1,4 +1,3 @@
-[![General badge](https://img.shields.io/badge/Awesomeness-100%25-green.svg)](https://shields.io/) 
 
 ## Hi there 👋
 
@@ -25,4 +24,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![General badge](https://img.shields.io/badge/Awesomeness-100%25-green.svg)](https://shields.io/) 
+
+
 -->
