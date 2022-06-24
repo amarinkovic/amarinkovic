@@ -10,6 +10,7 @@ I am a Software Engineer primarilly focused on Java/JVM stack, recently I strate
 * Twitter: [@amarinkovic](https://twitter.com/amarinkovic)
 
 [![Donate with Ethereum](https://en.cryptobadges.io/badge/micro/0x3b1716F33785A9AAa3a496DCfD33A1f702Fd3CEA)](https://en.cryptobadges.io/donate/0x3b1716F33785A9AAa3a496DCfD33A1f702Fd3CEA) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amarinkovic)
 
 <!--
 **amarinkovic/amarinkovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
