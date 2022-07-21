@@ -3,6 +3,10 @@
 
 I am a Software Engineer primarilly focused on Java/JVM stack, recently I started diving into blockchain development with Solidity. Other than that, in my spare time I like learning about FP in Scala and fiddling with home automation and microcontrollers.
 
+#### Working on
+
+* Nayms (https://nayms.com)
+
 #### Contact
 
 * GitHub: [amarinkovic](https://github.com/amarinkovic)
