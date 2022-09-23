@@ -9,9 +9,10 @@ I am a Software Engineer primarilly focused on Java/JVM stack, recently I starte
 
 #### Contact
 
-* GitHub: [amarinkovic](https://github.com/amarinkovic)
-* LinkedIn: [amarinkovic](https://www.linkedin.com/in/amarinkovic)
-* Twitter: [@amarinkovic](https://twitter.com/amarinkovic)
+* 🦄 GitHub: [amarinkovic](https://github.com/amarinkovic)
+* 🐦 Twitter: [@amarinkovic](https://twitter.com/amarinkovic)
+* 🦸‍♂️ LinkedIn: [amarinkovic](https://www.linkedin.com/in/amarinkovic)
+* 📋 Blog: [amarinkovic.github.io](https://amarinkovic.github.io)
 
 <!-- [![Donate with Ethereum](https://en.cryptobadges.io/badge/micro/0x3b1716F33785A9AAa3a496DCfD33A1f702Fd3CEA)](https://en.cryptobadges.io/donate/0x3b1716F33785A9AAa3a496DCfD33A1f702Fd3CEA) -->
 
