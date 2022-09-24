@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-I am a Software Engineer primarilly focused on Java/JVM stack, recently I started diving into blockchain development with Solidity. Other than that, in my spare time I like learning about FP in Scala and fiddling with home automation and microcontrollers.
+I am a Software Engineer with a lot of experience in Java/JVM stack, lately I am focuesd on blockchain development with Solidity. Other than that, in my spare time I like learning about FP in Scala and fiddling with home automation and microcontrollers.
 
 #### Working on
 
