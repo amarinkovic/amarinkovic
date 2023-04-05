@@ -1,18 +1,15 @@
 
-## Hi 👋
+## Hi there! 👋
 
-I am a Software Engineer with a lot of experience in Java/JVM stack, lately I am focused on Ethereum blockchain development with Foundry and Solidity. Other than that, in my spare time I like learning about FP in Scala and fiddling with home automation and microcontrollers.
+I am a Software Engineer with a lot of experience in Java/JVM stack, lately my focus is development on Ethereum blockchain using Foundry and Solidity. Other than that, in my spare time I like learning about Scala/FP and fiddling with home automation and microcontrollers.
 
 #### Working on
 
 * Nayms (https://nayms.com)
 
-#### Contact
+#### Links
 
-* 🦄 GitHub: [amarinkovic](https://github.com/amarinkovic)
-* 🐦 Twitter: [@amarinkovic](https://twitter.com/amarinkovic)
-* 🦸‍♂️ LinkedIn: [amarinkovic](https://www.linkedin.com/in/amarinkovic)
-* 📋 Blog: [amarinkovic.github.io](https://amarinkovic.github.io)
+🦄 [GitHub](https://github.com/amarinkovic)  🐦 [Twitter](https://twitter.com/amarinkovic)  🦸‍♂️ [LinkedIn](https://www.linkedin.com/in/amarinkovic)  📋 [Blog](https://amarinkovic.github.io)
 
 <!-- [![Donate with Ethereum](https://en.cryptobadges.io/badge/micro/0x3b1716F33785A9AAa3a496DCfD33A1f702Fd3CEA)](https://en.cryptobadges.io/donate/0x3b1716F33785A9AAa3a496DCfD33A1f702Fd3CEA) -->
 
