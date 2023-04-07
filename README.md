@@ -15,7 +15,11 @@ I am a Software Engineer with a lot of experience in Java/JVM stack, lately my f
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amarinkovic&count_private=true&hide=issues&show_icons=true&hide_title=true&theme=transparent)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarinkovic&count_private=true&hide=notebook&theme=transparent) -->
+<!--
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarinkovic&count_private=true&hide=Jupyter%20Notebook,ruby&langs_count=15&theme=transparent) 
+
+ -->
 
 <!-- [![Donate with Ethereum](https://en.cryptobadges.io/badge/micro/0x3b1716F33785A9AAa3a496DCfD33A1f702Fd3CEA)](https://en.cryptobadges.io/donate/0x3b1716F33785A9AAa3a496DCfD33A1f702Fd3CEA) -->
 
