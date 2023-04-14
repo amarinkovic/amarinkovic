@@ -1,7 +1,7 @@
 
 ## Hi there! 👋
 
-I am a Software Engineer currently focused on development for Ethereum blockchain using Foundry and Solidity. Other than that, in my spare time I like learning about Scala/FP and fiddling with home automation and microcontrollers.
+I am a Software Engineer currently focused on development for Ethereum blockchain. In my spare time I like learning about Scala/FP and fiddling with home automation and microcontrollers.
 
 #### Working on
 
