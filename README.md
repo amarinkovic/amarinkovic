@@ -1,7 +1,7 @@
 
 ## Hi there! 👋
 
-I am a Software Engineer with a lot of experience in Java/JVM stack, lately my focus is development on Ethereum blockchain using Foundry and Solidity. Other than that, in my spare time I like learning about Scala/FP and fiddling with home automation and microcontrollers.
+I am a Software Engineer currently focused on development for Ethereum blockchain using Foundry and Solidity. Other than that, in my spare time I like learning about Scala/FP and fiddling with home automation and microcontrollers.
 
 #### Working on
 
@@ -11,11 +11,13 @@ I am a Software Engineer with a lot of experience in Java/JVM stack, lately my f
 
 🦄 [GitHub](https://github.com/amarinkovic)  🐦 [Twitter](https://twitter.com/amarinkovic)  🦸‍♂️ [LinkedIn](https://www.linkedin.com/in/amarinkovic)  📋 [Blog](https://amarinkovic.github.io)
 
+<!--
+
 #### Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amarinkovic&count_private=true&hide=issues&show_icons=true&hide_title=true&theme=transparent)
 
-<!--
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarinkovic&count_private=true&hide=Jupyter%20Notebook,ruby&langs_count=15&theme=transparent) 
 
