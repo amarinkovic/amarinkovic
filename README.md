@@ -3,7 +3,7 @@
 
 I am a Software Engineer currently focused on development for Ethereum blockchain. In my spare time I like learning about Scala/FP and fiddling with home automation and microcontrollers.
 
-#### Working on
+### Working on
 
 * Nayms (https://nayms.com)
 
