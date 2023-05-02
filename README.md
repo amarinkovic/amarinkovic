@@ -9,7 +9,7 @@ I am a Software Engineer currently focused on development for Ethereum blockchai
 
 #### Links
 
-🦄 [GitHub](https://github.com/amarinkovic)  🐦 [Twitter](https://twitter.com/amarinkovic)  🦸‍♂️ [LinkedIn](https://www.linkedin.com/in/amarinkovic)  📋 [Text](https://amarinkovic.github.io)
+🦄 [Code](https://github.com/amarinkovic)  🐦 [Twitter](https://twitter.com/amarinkovic)  🦸‍♂️ [LinkedIn](https://www.linkedin.com/in/amarinkovic)  📋 [Text](https://amarinkovic.github.io)
 
 <!--
 
