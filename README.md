@@ -1,11 +1,6 @@
-
-## Hi there! 👋
-
-I am a Software Engineer currently focused on development for Ethereum blockchain. In my spare time I like learning about emerging technologies and fiddling with home automation and microcontrollers.
-
 ### Working on
 
-* Nayms (https://nayms.com)
+* [Nayms](https://github.com/nayms)
 
 #### Links
 
