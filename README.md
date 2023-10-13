@@ -1,10 +1,6 @@
-### Working on
+Working on: [Nayms](https://github.com/nayms)
 
-* [Nayms](https://github.com/nayms)
-
-#### Links
-
-🦄 [Code](https://github.com/amarinkovic)  🐦 [Twitter](https://twitter.com/amarinkovic)  🦸‍♂️ [LinkedIn](https://www.linkedin.com/in/amarinkovic)  📋 [Text](https://amarinkovic.github.io)
+Links: 🦄 [Code](https://github.com/amarinkovic)  🐦 [Twitter](https://twitter.com/amarinkovic)  🦸‍♂️ [LinkedIn](https://www.linkedin.com/in/amarinkovic)  📋 [Texts](https://amarinkovic.github.io)
 
 <!--
 
